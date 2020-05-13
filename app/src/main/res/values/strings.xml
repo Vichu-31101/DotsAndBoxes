@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DotsAndBoxes</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="start">Start</string>
+    <string name="dots_boxes"><![CDATA[DOTS & BOXES]]></string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_4_x_4">4 X 4</string>
+    <string name="_5_x_5">5 X 5</string>
+    <string name="_6_x_6">6 X 6</string>
+    <string name="_7_x_7">7 X 7</string>
+    <string name="_8_x_8">8 X 8</string>
+    <string name="_9_x_9">9 X 9</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="singleplayer">Singleplayer</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+</resources>
